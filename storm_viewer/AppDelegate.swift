@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  storm_viewer
+//  Storm Viewer2
 //
-//  Created by Gaurav Sara on 17/07/23.
+//  Created by Gaurav Sara on 16/07/23.
 //
 
 import UIKit

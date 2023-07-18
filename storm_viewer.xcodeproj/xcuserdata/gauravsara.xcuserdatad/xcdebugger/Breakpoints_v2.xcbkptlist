@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "107B5ADF-240E-4C22-9FB2-81D48CF4D1A2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1888F8FE-CF51-4342-AB7D-DE56E0AC1A29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Storm Viewer2/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1888F8FE-CF51-4342-AB7D-DE56E0AC1A29 - d84ec8a247783d93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Storm_Viewer2.DetailViewController.selectedImage.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Storm Viewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravsara/Desktop/IOS/Storm%20Viewer2/Storm%20Viewer2/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "1888F8FE-CF51-4342-AB7D-DE56E0AC1A29 - 1fc8a72b76e66d8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Storm_Viewer2.DetailViewController.selectedImage.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Storm Viewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravsara/Desktop/IOS/Storm%20Viewer2/Storm%20Viewer2/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "1888F8FE-CF51-4342-AB7D-DE56E0AC1A29 - 540dd1aa72009e12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Storm_Viewer2.DetailViewController.selectedImage.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Storm Viewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravsara/Desktop/IOS/Storm%20Viewer2/Storm%20Viewer2/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "1888F8FE-CF51-4342-AB7D-DE56E0AC1A29 - 1699230c685ce472"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Storm_Viewer2.DetailViewController.selectedImage.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Storm Viewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravsara/Desktop/IOS/Storm%20Viewer2/Storm%20Viewer2/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "1888F8FE-CF51-4342-AB7D-DE56E0AC1A29 - 68f786bcc25df07b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Storm_Viewer2.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Storm_Viewer2.DetailViewController"
+                  moduleName = "Storm Viewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravsara/Desktop/IOS/Storm%20Viewer2/Storm%20Viewer2/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "1888F8FE-CF51-4342-AB7D-DE56E0AC1A29 - 148cd6f9949e4bc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Storm_Viewer2.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Storm_Viewer2.DetailViewController&gt;"
+                  moduleName = "Storm Viewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravsara/Desktop/IOS/Storm%20Viewer2/Storm%20Viewer2/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FB8FD5C-244E-492D-91B0-D88F01CF828E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Storm Viewer2/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

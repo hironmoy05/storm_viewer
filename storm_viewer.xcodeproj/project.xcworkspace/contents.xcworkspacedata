@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/gauravsara/Desktop/IOS/Storm Viewer2/storm_viewer.xcodeproj">
    </FileRef>
 </Workspace>
